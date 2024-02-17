@@ -1,0 +1,45 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: yellow;
+}
+.container{
+    height: 400px;
+    width: 500px;
+    color: white;
+    box-sizing: border-box;
+    background-color: white;
+    margin-top: 2%;
+    margin-left: 19%;
+    padding-top: 20px;
+}
+
+#text{
+    
+    height: 190px;
+    width: 350px;
+    margin-left: 70px;
+    margin-top: 20px;
+    padding-top: 20px;
+    text-wrap: wrap;
+    background-color: black;
+}
+
+#but{
+    padding-left: 100px;  
+    padding-top: 30px;  
+}
+button{
+    padding-top: 20px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    background-color: yellow;
+    border-radius: 10%;
+   
+
+    
+}
